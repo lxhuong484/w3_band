@@ -193,7 +193,7 @@ html {
     margin-top: 46px;
     /*dat chieu cao bang 50% chieu ngang cua chinh no  */
     padding-top: 50%;
-    background: url('/assest/img/slider/chicago.jpg') top center / cover no-repeat;
+    background: url('../img/slider/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
